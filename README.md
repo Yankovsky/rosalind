@@ -1,4 +1,0 @@
-rosalind
-========
-
-rosalind
